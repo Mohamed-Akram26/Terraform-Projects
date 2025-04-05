@@ -9,13 +9,13 @@ This document contains visual artifacts that demonstrate the successful executio
 ![Internet Gateway](Artifacts/Internet-Gateway.PNG)
 
 ### 3️⃣ Public_Subnet
-![Public_Subnet](Artifacts/.PNG)
+![Public_Subnet](Artifacts/Public-Subnet.PNG)
 
 ### 4️⃣ Private_Subnet
 ![Private_Subnet](Artifacts/Public-Subnet.PNG)
 
 ### 5️⃣ Public_Route_Table
-![Public_Route_Table](Artifacts/.PNG)
+![Public_Route_Table](Artifacts/Public-Route-Table.PNG)
 
 ### 6️⃣ Private_Route_Table
 ![Private_Route_Table](Artifacts/Private-Subnet.PNG)
