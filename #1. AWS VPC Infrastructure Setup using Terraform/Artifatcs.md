@@ -3,7 +3,7 @@
 This document contains visual artifacts that demonstrate the successful execution and configuration of the Terraform-based AWS VPC setup.
 
 ### 1️⃣ VPC
-![VPC](Artifacts/#1.VPC.PNG)
+![VPC](Artifacts/#1. VPC.PNG)
 
 ### 2️⃣ Internet Gateway
 ![Internet Gateway](Artifacts/.PNG)
