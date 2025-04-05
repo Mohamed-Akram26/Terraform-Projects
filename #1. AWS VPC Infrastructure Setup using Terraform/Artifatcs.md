@@ -12,7 +12,7 @@ This document contains visual artifacts that demonstrate the successful executio
 ![Public_Subnet](Artifacts/.PNG)
 
 ### 4️⃣ Private_Subnet
-![Private_Subnet](Artifacts/Public_Subnet.PNG)
+![Private_Subnet](Artifacts/Public-Subnet.PNG)
 
 ### 5️⃣ Public_Route_Table
 ![Public_Route_Table](Artifacts/.PNG)
