@@ -6,25 +6,25 @@ This document contains visual artifacts that demonstrate the successful executio
 ![VPC](Artifacts/VPC.PNG)
 
 ### 2️⃣ Internet Gateway
-![Internet Gateway](Artifacts/.PNG)
+![Internet Gateway](Artifacts/Internet Gateway.PNG)
 
 ### 3️⃣ Public_Subnet
 ![Public_Subnet](Artifacts/.PNG)
 
 ### 4️⃣ Private_Subnet
-![Private_Subnet](Artifacts/.PNG)
+![Private_Subnet](Artifacts/Public_Subnet.PNG)
 
 ### 5️⃣ Public_Route_Table
 ![Public_Route_Table](Artifacts/.PNG)
 
 ### 6️⃣ Private_Route_Table
-![Private_Route_Table](Artifacts/.PNG)
+![Private_Route_Table](Artifacts/Private_Subnet.PNG)
 
 ### 7️⃣ Public_Subnet_Association
-![Public_Subnet_Association](Artifacts/.PNG)
+![Public_Subnet_Association](Artifacts/Public_Route_Table.PNG)
 
 ### 8️⃣ Private_Subnet_Association
-![Private_Subnet_Association](Artifacts/.PNG)
+![Private_Subnet_Association](Artifacts/Private_Route_Table.PNG)
 
 ### 9️⃣ Security_Group
 ![Security_Group](Artifacts/.PNG)
