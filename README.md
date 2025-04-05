@@ -2,7 +2,7 @@
 
 # Terraform Project: VPC Infrastructure on AWS
 
-## 📌 Project Overview
+## Project Overview
 
 This Terraform project creates a custom VPC (Virtual Private Cloud) on AWS from scratch. It includes both public and private subnets, route tables, an internet gateway, security groups, and two EC2 instances — one web server and one database server — each in different subnets.
 
