@@ -18,16 +18,16 @@ This document contains visual artifacts that demonstrate the successful executio
 ![Public_Route_Table](Artifacts/.PNG)
 
 ### 6️⃣ Private_Route_Table
-![Private_Route_Table](Artifacts/Private_Subnet.PNG)
+![Private_Route_Table](Artifacts/Private-Subnet.PNG)
 
 ### 7️⃣ Public_Subnet_Association
-![Public_Subnet_Association](Artifacts/Public_Route_Table.PNG)
+![Public_Subnet_Association](Artifacts/Public-Route-Table.PNG)
 
 ### 8️⃣ Private_Subnet_Association
-![Private_Subnet_Association](Artifacts/Private_Route_Table.PNG)
+![Private_Subnet_Association](Artifacts/Private-Route-Table.PNG)
 
 ### 9️⃣ Security_Group
-![Security_Group](Artifacts/Security_Group.PNG)
+![Security_Group](Artifacts/Security-Group.PNG)
 
 ### 🔟 EC2-Web1
 ![EC2-Web1](Artifacts/EC2-Web1.PNG)
@@ -36,7 +36,7 @@ This document contains visual artifacts that demonstrate the successful executio
 ![EC2-DB1](Artifacts/EC2-DB1.PNG)
 
 ### 1️⃣2️⃣ Terraform_OutPuts
-![Terraform_OutPuts](Artifacts/Terraform_OutPuts.PNG)
+![Terraform_OutPuts](Artifacts/Terraform-OutPuts.PNG)
 
 ### 1️⃣3️⃣ Accessing-EC2-Web1
 ![Accessing-EC2-Web1](Artifacts/Accessing-EC2-Web1.PNG)
