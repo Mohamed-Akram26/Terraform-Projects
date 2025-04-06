@@ -1,4 +1,4 @@
-# Please refer to Artifacts.md for screenshots and verification steps.
+# Please refer to Artifacts.md for Real-Time screenshots and verification steps.
 
 # Terraform Project: VPC Infrastructure on AWS
 
