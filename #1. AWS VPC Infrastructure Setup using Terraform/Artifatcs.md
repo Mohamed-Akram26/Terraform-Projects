@@ -41,5 +41,5 @@ This document contains visual artifacts that demonstrate the successful executio
 ### 1️⃣3️⃣ Accessing-EC2-Web1
 ![Accessing-EC2-Web1](Artifacts/Accessing-EC2-Web1.PNG)
 
-### 1️⃣4️⃣ Accessing-EC2-DB1-From WEB1
+### 1️⃣4️⃣ Accessing-EC2-DB1-From EC2-WEB1
 ![Accessing-EC2-DB1-From WEB1](Artifacts/Accessing-EC2-DB1-From-WEB1.PNG)
